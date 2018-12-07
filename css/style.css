@@ -44,6 +44,13 @@
    bottom: 255px;
 
 }
+.whitebox h2:hover{
+   color: red;
+   transform: rotate(0deg);
+
+
+
+}
 .whitebox{
     width: 660px;
     height: 490px;
@@ -61,6 +68,11 @@
     left: 140px;
     bottom: 120px;
 }
+.greenbox:hover{
+    background-color: yellow;
+    
+
+}
 
 .readmore{
    font-size: 14px;
@@ -71,6 +83,12 @@
     bottom: 55px;
     text-decoration: none;
 }
+.readmore:hover{
+   color: red;
+
+}
+
+
 .creator{
    font-size: 14px;
    position: absolute;
