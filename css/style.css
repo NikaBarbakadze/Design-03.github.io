@@ -1,0 +1,84 @@
+/*boxs*/
+.box1 {
+	width: 1286px;
+	height: 700px;
+	background-color: #22B573;
+	display: block;
+    margin: 40px auto 40px auto;
+	border-style: solid;
+    border-color: #006837;
+    border-width: 4px;
+}
+
+/*navigation*/
+.navigation{
+	font-size: 48px;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+.nav-txt{
+	font-size: 48px;
+	padding-left: 40px;
+	color: white;
+	text-decoration: none;
+
+}
+.cursor{
+    height: 665px;
+    width: 875px;
+    position: absolute;
+    top: 75px;
+    right: 70px;
+    z-index: 10;
+
+
+}
+.whitebox h2{
+   color: #FCEE21;
+   font-size: 34px;
+   text-transform: uppercase;
+   z-index: 20;
+   position: absolute;
+   transform: rotate(45deg);
+   left: 25px;
+   bottom: 255px;
+
+}
+.whitebox{
+    width: 660px;
+    height: 490px;
+    background-color: white;
+    position: absolute;
+    left: 0px;
+    bottom: -110px;
+    z-index: 15;
+}
+.greenbox{
+    width: 304px;
+    height: 304px;
+    background-color: #006837;
+    position: absolute;
+    left: 140px;
+    bottom: 120px;
+}
+
+.readmore{
+   font-size: 14px;
+   position: absolute;
+   color: #39b54a;
+   text-transform: uppercase;
+    left: 565px;
+    bottom: 55px;
+    text-decoration: none;
+}
+.creator{
+   font-size: 14px;
+   position: absolute;
+   color: #FCEE21;
+   text-transform: uppercase;
+   left: 625px;
+   bottom: -85px;
+   white-space: nowrap;
+
+
+}
